@@ -1,0 +1,31 @@
+body{background:url(hc.jpg) center;
+    background-repeat:no-repeat;
+	background-size:cover;
+	list-style-type:none;
+}
+img{
+	BORDER-RADIUS:50%;
+    display:inline-block;
+    }
+	
+label{
+	display:inline-block;
+	float:right;
+	padding:20px;
+	list-style-type:none;
+}
+
+h1 {
+	color:red;  
+}
+
+h2{
+	color:green;
+}
+h3{
+	color:;
+	text-align: center;
+}
+
+.centrage, .centrage2 {
+	text-align: center;}

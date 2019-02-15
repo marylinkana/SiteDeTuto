@@ -1,0 +1,27 @@
+body{background:url(code2.jpg);
+    background-repeat:no-repeat;
+background-size:cover;
+list-style-type:none;
+}
+img{
+	BORDER-RADIUS:50%;
+    display:inline-block;
+    }
+label{
+	display:inline-block;
+	  float:right;
+	  padding:20px;
+	  list-style-type:none;
+	  
+	  
+}
+h1 {
+	color:white;  
+}
+h2{
+	color:green;
+}
+
+
+.centrage, .centrage2 {
+	text-align: center;}
